@@ -2,7 +2,7 @@
   <img width="200" height="200" src="./docs/_assets/img/logo-dark.svg">
 </p>
 
-<h3 align="center">Bootswatch</h3>
+<h3 align="center">Bootswatch-rtl</h3>
 
 <p align="center">
   A collection of open source themes for <a href="https://mrjelveh.github.io/BootsDrac/">BootsDrac 🧛‍♂️</a> and <a href="https://getbootstrap.com/">Bootstrap</a>
@@ -44,12 +44,6 @@ This method allows you to override theme variables.
 
 Make sure to import Bootstrap's `bootstrap-rtl.scss` in between `_variables.scss`
 and `_bootswatch.scss`!
-
-
-### Via API
-
-A simple JSON API is available for integrating your platform with Bootswatch.
-More info can be found on the [Help page](https://mrjelveh.github.io/bootswatch-rtl/help/#api).
 
 
 ## Customization
