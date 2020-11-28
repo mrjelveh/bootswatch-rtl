@@ -29,7 +29,7 @@ file to have functional dropdowns, modals, etc.
 
 ### Via Sass Imports
 
-If you're using [Sass](https://sass-lang.com/) (SCSS) in your project, you can
+First of all, you should install Bootsdrac ```npm i bootsdrac ```, If you're using [Sass](https://sass-lang.com/) (SCSS) in your project, you can
 import the `_variables.scss` and `_bootswatch.scss` files for a given theme.
 This method allows you to override theme variables.
 
@@ -58,23 +58,23 @@ Check out the [Help page](https://mrjelveh.github.io/bootswatch-rtl/help/#custom
 
 ## Author
 
-Thomas Park
-
-* <https://github.com/thomaspark>
-* <https://thomaspark.co/>
-
 MohammadReza Jelveh
 
 * <https://github.com/mrjelveh>
 * <https://mrjelveh.com/>
 
 
+Thomas Park
+
+* <https://github.com/thomaspark>
+* <https://thomaspark.co/>
+
 
 ## Copyright and License
 
+Copyright 2020 MohammadReza Jelveh
 
 Copyright 2014-2020 Thomas Park
 
-Copyright 2020 MohammadReza Jelveh
 
 Code released under the MIT License.
